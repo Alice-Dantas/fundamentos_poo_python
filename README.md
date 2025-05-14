@@ -4,7 +4,7 @@ Este repositório foi criado para compartilhar um material introdutório sobre P
 
 ## 📄 Material disponível
 
-- [`POO em Python.pdf`](): PDF com conteúdo introdutório sobre os principais conceitos de POO com foco em Python, abordando:
+- [`POO em Python.pdf`](poo_py.pdf): PDF com conteúdo introdutório sobre os principais conceitos de POO com foco em Python, abordando:
   - Criação de classes
   - Uso do `self`
   - Métodos mágicos (`__init__`, `__str__`, `__call__`, etc.)
