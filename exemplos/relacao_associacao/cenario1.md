@@ -5,3 +5,5 @@
 - Classe Agenda: método agendar(pessoa, compromisso)
 
 > Quando você agenda, passa uma pessoa e um compromisso como parâmetros.
+
+Acesse [comandos1](comandos1.py) para visualizar a resolução.
