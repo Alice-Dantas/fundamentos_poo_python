@@ -11,11 +11,4 @@ Este repositório foi criado para compartilhar um material introdutório sobre P
   - Atributos de instância e de classe
   - Relações entre classes: associação, agregação, composição e herança
 
-## Exemplos de código (em breve)
-
-O repositório será atualizado com exemplos práticos dos temas abordados no PDF, incluindo:
-
-- [ ] Criação e instanciamento de classes
-- [ ] Demonstrações de métodos mágicos
-- [ ] Relações entre objetos (composição, herança, etc.)
-- [ ] Projetos simples aplicando POO
+- [Exemplos de código](exemplos): exemplos práticos dos temas abordados no PDF.
