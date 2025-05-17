@@ -1,6 +1,6 @@
 # 🐍 Programação Orientada a Objetos (POO) em Python
 
-Este repositório foi criado para compartilhar um material introdutório sobre Programação Orientada a Objetos (POO) utilizando a linguagem Python. O conteúdo inclui explicações teóricas e exemplos práticos em PDF, e futuramente serão adicionados exemplos de código organizados em pastas.
+Este repositório foi criado para compartilhar um material introdutório sobre Programação Orientada a Objetos (POO) utilizando a linguagem Python. O conteúdo inclui explicações teóricas em PDF, e exemplos de código organizados em pastas.
 
 ## Material disponível
 
